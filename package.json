@@ -1,0 +1,19 @@
+{
+  "name": "weo-jquery-ui",
+  "version": "0.1.0",
+  "description": "Our minimal build of jquery-ui",
+  "main": "jquery-ui.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/weo-edu/weo-jquery-ui"
+  },
+  "author": "ashaffer (http://github.com/ashaffer)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weo-edu/weo-jquery-ui/issues"
+  },
+  "homepage": "https://github.com/weo-edu/weo-jquery-ui"
+}
